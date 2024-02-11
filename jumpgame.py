@@ -8,7 +8,7 @@ import pygame, sys, random, time
 from pygame.locals import *
 
 pygame.init()
-vec = pygame.math.Vector2   # "Vector2" since the game is two-dimensional
+vec = pygame.math.Vector2
 
 HEIGHT = 450
 WIDTH = 400
